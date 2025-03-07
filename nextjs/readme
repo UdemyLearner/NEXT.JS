@@ -1,0 +1,5 @@
+./tsconfig.json   -> is used to define what should be type checked, ignored and rules to follow
+
+./
+
+./postcss.config.mjs -> config file for post CSS. It is used to process CSS with diffrent plugings. Allows to use utility first classes as plugings
