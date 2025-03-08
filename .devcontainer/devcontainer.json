@@ -14,7 +14,7 @@
 		}
 	},
 
-	// "updateContentCommand": "npm install",
+	// "updateContentCommand": "npm install"
 	// "postAttachCommand": "npm dev"
 
 
