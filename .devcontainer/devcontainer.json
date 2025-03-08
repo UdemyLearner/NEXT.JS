@@ -8,7 +8,8 @@
 		"vscode": {
 			"extensions": [
 				"streetsidesoftware.code-spell-checker",
-				"runningcoder.react-snippets"
+				"runningcoder.react-snippets",
+				"msjsdiag.vscode-react-native"
 			]
 		}
 	},
