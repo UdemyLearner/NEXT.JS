@@ -2,4 +2,10 @@
 
 ./
 
-./postcss.config.mjs -> config file for post CSS. It is used to process CSS with diffrent plugings. Allows to use utility first classes as plugings
+./postcss.config.mjs -> config file for post CSS. It is used to process CSS with different plugins. Allows to use utility first classes as plugins
+
+./next-env.d.ts -> typescript declaration for next.js 
+
+./next.config.ts -> config next.js features
+
+
